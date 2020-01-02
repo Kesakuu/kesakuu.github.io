@@ -45,9 +45,7 @@ a, span {
         padding-left: 0;
     }
 }
-.nav_item:nth-last-child(1) {
-    
-}
+
 .nav_item:nth-child(2)::after {
     content: url(../img/arrow.png);
     position: relative;
@@ -86,9 +84,7 @@ a, span {
     display: flex;
     justify-content: space-around;
 }
-.hovering_nav {
-    
-}
+
 .services {
     display: none;
     padding: 0;
@@ -275,7 +271,7 @@ a, span {
         font-size: 14px;
         font-weight: 400;
         max-width: 150px;
-        max-height: 47px;
+        max-height: 100px;
         text-align: center;
         overflow: hidden;
         margin-top: 9px;
