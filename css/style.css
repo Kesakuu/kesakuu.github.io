@@ -243,6 +243,7 @@ a, span {
   padding-top: 70px; }
 
 .wrapper_ours {
+  margin-top: 50px;
   display: flex;
   justify-content: space-between; }
   .wrapper_ours h1 {
